@@ -8,9 +8,11 @@ Gem::Specification.new do |spec|
   spec.version       = RealPush::VERSION
   spec.authors       = ['Zaez Team']
   spec.email         = ['contato@zaez.net']
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ''
+  spec.summary       = %q{Library of integration with RealPush system. Written in Ruby.}
+  spec.description   = %q{RealPush is a private and commercial system to send notifications via websocket.
+The system allows the creation of applications based on its quota through access API.
+Sending notifications to trigger customers with private and public channels. Synchronous and asynchronous requests..}
+  spec.homepage      = 'http://realpush.cc/'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
