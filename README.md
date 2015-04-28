@@ -1,4 +1,4 @@
-RealPush [![Build Status](https://travis-ci.org/zaeznet/realpush-ruby.svg)][Continuous Integration] [![Dependency Status](https://gemnasium.com/zaeznet/realpush-ruby.svg)][Dependencies] [![Code Climate](https://codeclimate.com/github/colszowka/simplecov.png)](https://codeclimate.com/github/colszowka/simplecov) [![Inline docs](http://inch-ci.org/github/zaeznet/realpush-ruby.svg?branch=master)](http://inch-ci.org/github/zaeznet/realpush-ruby)
+RealPush [![Build Status](https://travis-ci.org/zaeznet/realpush-ruby.svg?branch=master)](https://travis-ci.org/zaeznet/realpush-ruby) [![Dependency Status](https://gemnasium.com/zaeznet/realpush-ruby.svg)](https://gemnasium.com/zaeznet/realpush-ruby) [![Code Climate](https://codeclimate.com/github/zaeznet/realpush-ruby/badges/gpa.svg)](https://codeclimate.com/github/zaeznet/realpush-ruby) [![Test Coverage](https://codeclimate.com/github/zaeznet/realpush-ruby/badges/coverage.svg)](https://codeclimate.com/github/zaeznet/realpush-ruby) [![Inline docs](http://inch-ci.org/github/zaeznet/realpush-ruby.svg?branch=master)](http://inch-ci.org/github/zaeznet/realpush-ruby)
 ========
 **RealPush Library for Ruby**
 
